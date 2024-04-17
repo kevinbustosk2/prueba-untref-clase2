@@ -1,0 +1,4 @@
+git add .
+git commit -m "mensaje para que sea visible lo que estoy realizando"
+git status
+git push origin main/master

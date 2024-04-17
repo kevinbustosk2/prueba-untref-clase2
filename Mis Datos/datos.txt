@@ -1,0 +1,7 @@
+Nombre: Kevin Emanuel
+Apellido:Bustos
+Altura:1.78 
+Edad:27
+peso:117
+ColorPreferido:Negro
+d.n.i 40223473
